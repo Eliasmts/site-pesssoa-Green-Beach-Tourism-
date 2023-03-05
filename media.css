@@ -1,0 +1,1766 @@
+@media(max-width:380px) {
+    .hambuguer i {
+        font-size: 1.2em;
+    }
+    .logo a{
+      
+        font-size: 0.9rem;
+         font-weight: 500;
+       }
+    .logo a .green{
+        color: #2a8c4a;
+         font-size: 0.9rem;
+          font-family:  'Mochiy Pop One', sans-serif;
+          font-weight: 500;
+    }
+    .logo a .tourism{
+        font-size: 0.9rem;
+    }
+    
+    .logo a .g{
+        font-size: 1rem;
+    }
+    .redes a{
+        position:fixed;
+     width:35px;
+     height:35px;
+     bottom:8px;
+     right:8px;
+     background-color:#25d366;
+     color:#FFF;
+     border-radius:50px;
+     text-align:center;
+      font-size:20px;
+      z-index:999;
+      text-decoration: none;
+    }
+    .redes i{
+        margin-top:7px;
+    
+    }
+    /*nossos*/
+    
+    .title-nosso h2{
+ 
+        font-weight: 500;
+          font-size: 1.8em;
+             
+    }
+    .title-nosso h3{
+        
+          font-size: 0.9em;
+          font-weight: 400;
+      
+      }
+      .card{
+
+        width: 300px;
+        height: 440px;
+        margin: 25px;
+       
+    }
+    .card-header{
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+    .card-img{
+        min-width: 100%;
+        width: auto;
+        height: 100%;
+    }
+    .card-body{
+        height: 190px;
+        padding: 10px;
+        text-align: center;
+        background-color: #f49e12 ;
+         font-family: 'Roboto', sans-serif; 
+    }
+    .card-local{
+        font-size: 16px;
+        margin: 10px 0;
+    }
+    .card-titulo{
+        font-size: 20px;
+        color: #fff;
+        margin: 8px 0px;
+    
+    font-family: 'Roboto', sans-serif; 
+    }
+    .card-text{
+        font-size: 12px;
+        width: 220px;
+        color: #fff;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .card-footer{
+    
+        text-align: center;
+        background-color: #f49e12 ;
+    }
+    .card-footer a{
+        color: #f49e12;
+        display: block;
+        background-color:#fff ;
+        padding: 16px;
+        text-decoration: none;
+        font-weight: 600;
+        font-family: 'Roboto', sans-serif; 
+    }
+    /*fim nossos */
+    #container2 .texto{
+        height: 350px;
+    }
+    #container2 h2{
+        font-size: 1.4em;
+    }
+    #container2 .texto .h3-dois{
+        font-size: 1.2em;
+    }
+    #container2 .texto .h3-one{
+        font-size: 0.8em;
+    }
+    #container2 .texto p{
+        font-size: 0.6em;
+    }
+    /*mais procurados */
+    .mais-procurados{
+
+         height: auto;
+
+     }
+     .conteudo-container{
+       
+          height: auto;
+    }
+    .title-1{
+        margin-bottom: 50px;
+    }
+    .title-1 h3{
+        
+        font-size: 1.3em;
+        font-weight: 500;
+     
+    }
+    .title-1 h1{
+        font-size: 1.7em;
+        font-weight: 500;
+        padding: 8px 0px;
+      
+    }
+    .title-1 h2{
+  
+        font-size: 0.8em;
+    }
+
+    /*catalogo */
+    /*contato */
+    .contato-title h1{
+        font-size: 3.5em;
+        color: #f49e12;
+        font-weight: 200;
+    }
+    .contato-title p {
+        font-size: 20px;
+        color: #f49e12;
+        font-weight: 400;
+        padding: 0px 3px 0px 3px;
+    }
+    .contato-text ul{
+        width: 350px;
+        padding: 40px 0px 20px 0px;
+        height: auto;
+    }
+    .contato-text ul li{
+        font-size: 8px;
+    }
+    .contato-text ul li a {
+        font-size: 17px;
+    }
+    .contato-text ul li span{
+        font-size: 10px;
+    }
+    iframe{
+        width: 90%;
+        height: 250px;
+        border: none;
+    }
+}
+@media(min-width:380px) and (max-width:445px) {
+    .hambuguer i {
+        font-size: 1.3em;
+    }
+    .logo a{
+      
+        font-size: 1rem;
+         font-weight: 500;
+       }
+    .logo a .green{
+
+         font-size: 1rem;
+      
+    }
+    .logo a .tourism{
+        font-size: 1rem;
+    }
+    
+    .logo a .g{
+        font-size: 1.2rem;
+    }
+    .redes a{
+        position:fixed;
+     width:35px;
+     height:35px;
+     bottom:8px;
+     right:8px;
+     background-color:#25d366;
+     color:#FFF;
+     border-radius:50px;
+     text-align:center;
+      font-size:20px;
+      z-index:999;
+      text-decoration: none;
+    }
+    .redes i{
+        margin-top:7px;
+    
+    }
+    #container2 .texto{
+        height: auto;
+    }
+    #container2 h2{
+        font-size: 1.4em;
+    }
+    #container2 .texto .h3-dois{
+        font-size: 1.2em;
+    }
+    #container2 .texto .h3-one{
+        font-size: 0.8em;
+    }
+    #container2 .texto p{
+        font-size: 0.6em;
+    }
+    .title-nosso{
+        margin-bottom: 5px;
+    }
+    .title-nosso h2{
+ 
+      font-size: 1.5em;
+              
+    }
+    .title-nosso h3{
+          font-size: 0.9em;
+          font-weight: 400;
+      
+      }
+      .card{
+
+        width: 290px;
+        height: 440px;
+        margin: 25px;
+     
+    }
+    .card-titulo{
+        font-size: 20px;
+        margin: 8px 0px;
+    
+  
+    }
+    .card-text{
+        font-size: 13px;
+        width: 250px;
+
+    }
+    .mais-procurados{
+
+        width: 100%;
+         height: auto;
+        
+     }
+     .conteudo-container{
+            width: 100%;
+          height: auto;
+    }
+
+    .title-1 h3{
+    
+        font-size: 1.3em;
+        font-weight: 500;
+       
+    }
+    .title-1 h1{
+        font-size: 1.8em;
+       
+            padding: 8px 0px;
+    }
+    .title-1 h2{
+        color: #f49e12;
+        font-size: 0.8em;
+    }
+      /*contato */
+      .contato-title h1{
+        font-size: 4em;
+        color: #f49e12;
+        font-weight: 200;
+    }
+    .contato-title p {
+        font-size: 22px;
+        color: #f49e12;
+        font-weight: 400;
+        padding: 0px 3px 0px 3px;
+    }
+    .contato-text ul{
+        width: 360px;
+        height: 260px;
+        padding: auto 10px;
+        ;
+    }
+    .contato-text ul li{
+        font-size: 8px;
+    }
+    .contato-text ul li a {
+        font-size: 17px;
+    }
+    iframe{
+        width: 90%;
+        height: 250px;
+        border: none;
+    }
+}
+@media(min-width:445px) and (max-width:500px) {
+    .hambuguer i {
+        font-size: 1.3em;   
+    }
+
+    .title h1{
+        font-size: 1.3em;
+        letter-spacing: 6px;
+    
+    }
+    .fale a{
+        font-size:0.7em ;
+        padding: 10px 18px;
+        border: 2px solid #fff;
+    
+    }
+    /* quem somos */
+    #container2 .texto{
+        width: 90%;
+       height: auto;
+    
+    }
+    #container2 h2{
+        font-family: 'Roboto', sans-serif;
+        color: #f49e12;
+        text-align: center;
+        font-weight: 400;
+        font-size: 1.8em;
+        padding-top: 5px;
+    }
+    #container2 .texto .h3-dois{
+        font-size: 1.5em;
+        font-weight: 300;
+        padding: 10px 10px;
+       }
+       #container2 .texto .h3-one{
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+        font-size: 1em;
+        padding-bottom: 5px;
+        color: #fff;
+        font-weight: 300;
+        padding: 0 8px;
+          
+    }
+    #container2 .texto p{
+        font-family: 'Roboto', sans-serif;
+        color: #d3d3d3;
+        font-size: 0.7rem;
+        margin-top: 0.8rem;
+        font-weight: 300;
+        padding: 0px 10px;
+    }
+    /* fim quem somos */
+    /* nossos */
+    .title-nosso{
+	
+        width: 100%;
+        height: 25vh;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 30px 0;
+        margin-bottom: 20px;
+    }
+    .title-nosso h2{
+     
+        font-weight: 500;
+          font-size: 2em;
+    }
+    .title-nosso h3{
+          font-size: 1em;
+          font-weight: 400;
+      
+      }
+      .card{
+
+        width: 300px;
+        height: 440px;
+        margin: 25px;
+        background-color: #fff;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+        transition: 0.3s;
+    }
+    .card-header{
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+    .card-img{
+        min-width: 100%;
+        width: auto;
+        height: 100%;
+    }
+    .card-body{
+        height: 190px;
+        padding: 10px;
+        text-align: center;
+        background-color: #f49e12 ;
+         font-family: 'Roboto', sans-serif; 
+    }
+    .card-local{
+        font-size: 16px;
+        margin: 10px 0;
+    }
+    .card-titulo{
+        font-size: 22px;
+        color: #fff;
+        margin: 7px 0px;
+    
+    font-family: 'Roboto', sans-serif; 
+    }
+    .card-text{
+        font-size: 13px;
+        width: 250px;
+        color: #fff;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .card-footer{
+    
+        text-align: center;
+        background-color: #f49e12 ;
+    }
+    /* mais procurados */
+    .mais-procurados{
+
+        width: 100%;
+         height: auto;
+   
+     }
+     .conteudo-container{
+            width: 100%;
+          height: auto;
+    }
+    .title-1{
+		text-align: center;
+	   padding-top: 3em;
+	   margin-bottom: 60px;
+	   width: 100%;
+}
+
+.title-1 h3{
+	color: #d3d3d3;
+	letter-spacing: 1px;
+	font-size: 1.8em;
+	font-weight: 500;
+	font-family: 'Roboto', sans-serif; 
+	text-transform: uppercase;
+}
+.title-1 h1{
+	color:#f49e12  ;
+	font-size: 2.1em;
+	font-weight: 500;
+		font-family: 'Roboto', sans-serif; 
+		padding: 10px 0px;
+}
+.title-1 h2{
+	color: #f49e12;
+	font-size: 1em;
+}
+           /*contato */
+           .contato-title h1{
+            font-size: 4em;
+            color: #f49e12;
+            font-weight: 200;
+        }
+        .contato-title p {
+            font-size: 22px;
+            color: #f49e12;
+            font-weight: 400;
+            padding: 0px 3px 0px 3px;
+        }
+        .contato-text ul{
+            width: 400px;
+            padding: 15px;
+        }
+        .contato-text ul li{
+            font-size: 9px;
+        }
+        .contato-text ul li a {
+            font-size: 17px;
+        }
+        iframe{
+            width: 90%;
+            height: 250px;
+            border: none;
+        }
+
+}
+
+@media(min-width:500px) and (max-width:600px) {
+    .title h1{
+        
+       font-weight: 900;
+        letter-spacing: 6px;
+       font-size: 1.5em;
+      margin-bottom: 30px;
+    }
+    .fale a{
+        font-size: 0.8em;
+        
+        padding: 10px 20px;
+    }
+
+
+
+    #container2 .texto{
+        width: 90%;
+       height: auto;
+      
+    }
+
+
+    #container2 h2{
+        font-weight: 400;
+        font-size: 1.9em;
+        padding-top: 10px;
+    }
+    #container2 .texto .h3-dois{
+        font-family: 'Roboto', sans-serif;
+        color: #fff;
+        font-size: 1.6em;
+        font-weight: 300;
+        
+        padding: 15px 5px;
+       }
+       #container2 .texto .h3-one{
+        
+        font-size: 1em;
+        padding-bottom: 10px;
+        padding: 0 10px;
+          
+    }
+    #container2 .texto p{
+      
+        font-size: 0.8rem;
+        margin-top: 1.5rem;
+        font-weight: 300;
+        padding: 0 10px;
+    }
+
+
+
+    .title-nosso{
+	
+        width: 100%;
+        height: 25vh;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 30px 0;
+        margin-bottom: 30px;
+    }
+    .title-nosso h2{
+     
+        font-weight: 500;
+          font-size: 2.2em;
+              font-family: 'Roboto', sans-serif;
+           color: #f49e12 ;
+    }
+    .title-nosso h3{
+        font-family: 'Roboto', sans-serif;
+        color: #f49e12 ;
+        padding: 0px 15px;
+          font-size: 1.2em;
+          font-weight: 400;
+      
+      }
+
+      .title-1{
+		text-align: center;
+	   padding-top: 3em;
+	   margin-bottom: 70px;
+	   width: 100%;
+}
+
+.title-1 h3{
+	color: #d3d3d3;
+	letter-spacing: 1px;
+	font-size: 1.9em;
+	font-weight: 500;
+	font-family: 'Roboto', sans-serif; 
+	text-transform: uppercase;
+}
+.title-1 h1{
+	color:#f49e12  ;
+	font-size: 2.2em;
+	font-weight: 500;
+		font-family: 'Roboto', sans-serif; 
+		padding: 20px 0px;
+}
+.title-1 h2{
+	color: #f49e12;
+	font-size: 1.1em;
+}
+.content-1{
+	position: relative;
+	width: 90%;
+	height: 400px;
+	display: flex;
+    flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+.content-1 .text-box{
+    z-index: 222;
+    background: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(2px);
+    padding: 20px;
+   height: 40vh;
+   max-width: 75vw;
+   border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 20px;
+    transform: translate(0px, -70px);
+      
+}
+.card{
+
+    width: 310px;
+    height: 440px;
+    margin: 25px;
+    background-color: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+    transition: 0.3s;
+}
+.card-header{
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.card-body{
+    height: 185px;
+    padding: 10px;
+}
+
+.card-titulo{
+    font-size: 22px;
+    color: #fff;
+    margin: 6px 0px;
+
+font-family: 'Roboto', sans-serif; 
+}
+.card-text{
+    font-size: 13px;
+    width: 250px;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+}
+           /*contato */
+           .contato-title h1{
+            font-size: 4em;
+            color: #f49e12;
+            font-weight: 200;
+        }
+        .contato-title p {
+            font-size: 18px;
+            color: #f49e12;
+            font-weight: 400;
+            padding: 0px 3px 0px 3px;
+        }
+        .contato-text ul{
+            width: 450px;
+            padding: 10px;
+        }
+        .contato-text ul li{
+            font-size: 11px;
+        }
+        .contato-text ul li a {
+            font-size: 19px;
+        }
+        iframe{
+            width: 90%;
+            height: 300px;
+            border: none;
+        }
+
+}
+@media(min-width:600px) and (max-width:800px) {
+    .hambuguer i {
+        font-size: 1.5em;   
+    }
+
+    .title h1{
+        font-size:2em;
+        letter-spacing: 4px;
+        margin-bottom: 35px;
+    
+    }
+    .fale a{
+        font-size:0.9em ;
+        padding: 10px 18px;
+        border: 2px solid #fff;
+    
+    }
+    #container2 .texto{
+        width: 90%;
+       height: auto;
+      
+    }
+
+
+    #container2 h2{
+        font-weight: 400;
+        font-size: 2em;
+        padding-top: 10px;
+    }
+    #container2 .texto .h3-dois{
+        font-family: 'Roboto', sans-serif;
+        color: #fff;
+        font-size: 1.8em;
+        font-weight: 300;
+        
+        padding: 15px 5px;
+       }
+       #container2 .texto .h3-one{
+        
+        font-size: 1.1em;
+        padding-bottom: 10px;
+        font-weight: 300;
+        padding: 0 15px;
+          
+    }
+    #container2 .texto p{
+      
+        font-size: 0.8rem;
+        margin-top: 1.9rem;
+        font-weight: 300;
+        padding: 0 10px;
+    }
+    .title-nosso{
+	
+        width: 100%;
+        height: 25vh;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 30px 0;
+        margin-bottom: 30px;
+    }
+    .title-nosso h2{
+     
+        font-weight: 500;
+          font-size: 2.2em;
+    }
+    .title-nosso h3{
+          font-size: 1.4em;
+          padding: 0px 10px;
+          font-weight: 400;
+      
+      }
+      .card{
+
+        width: 310px;
+        height: 440px;
+        margin: 25px;
+        background-color: #fff;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+        transition: 0.3s;
+    }
+    .card-header{
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+   
+    .card-body{
+        height: 190px;
+        padding: 10px;
+    }
+
+    .card-titulo{
+        font-size: 22px;
+        color: #fff;
+        margin: 6px 0px;
+    
+    font-family: 'Roboto', sans-serif; 
+    }
+    .card-text{
+        font-size: 14px;
+        width: 280px;
+        color: #fff;
+        margin: 0 auto;
+        text-align: center;
+    }
+    /* mais procurados */
+.mais-procurados{
+
+	width: 100%;
+	 height: auto;
+ }
+ .conteudo-container{
+	    width: 100%;
+	   height: auto;
+ }
+ .title-1{
+	text-align: center;
+   padding-top: 3em;
+   margin-bottom: 40px;
+   width: 100%;
+}
+.title-1 h3{
+	color: #d3d3d3;
+	letter-spacing: 1px;
+	font-size: 2em;
+	font-weight: 500;
+	font-family: 'Roboto', sans-serif; 
+	text-transform: uppercase;
+}
+.title-1 h1{
+	color:#f49e12  ;
+	font-size: 2.8em;
+	font-weight: 500;
+		font-family: 'Roboto', sans-serif; 
+        padding-top: 10px ;
+        padding-bottom: 3px;
+}
+.title-1 h2{
+	color: #f49e12;
+	font-size: 1.3em;
+}
+/* parte principal */
+.conteudo-Principal{
+	
+	position: relative;
+   color: #fff;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+ 
+ }
+ .content-1{
+	position: relative;
+	width: 90%;
+	height: 400px;
+	display: flex;
+    flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.content-1 .image{
+	position: relative;
+	width: 100%;
+    height: 75%;
+	overflow: hidden;
+	}
+	
+	.content-1 .image img{
+		z-index: 111;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		border-radius: 10px;
+	}
+	.content-1 .text-box{
+		z-index: 222;
+		background: rgba(0, 0, 0, 0.2);
+		backdrop-filter: blur(2px);
+		padding: 10px;
+	   height: 250px;
+       width: 450px;
+	   border: 1px solid rgba(255, 255, 255, 0.3);
+		border-radius: 20px;
+		transform: translate(-60px, 10px);
+		  
+	  }
+	  .content-1 .text-box h3{
+		color: #fff;
+   font-size: 1.2em;
+   font-weight: 500;
+   padding-top: 10px;
+   padding-bottom: 14px;
+   text-align: center;
+ 	font-family: 'Roboto', sans-serif; 
+	}
+	.content-1 .text-box p{
+		color: #fff;
+		font-size: 0.8em;
+		font-family: 'Roboto', sans-serif; 
+		text-align: center;
+		font-weight: 400;
+        letter-spacing: 1px;
+
+	}
+    .contato-title p {
+        font-size: 25px;
+        color: #fff;
+        font-weight: 300;
+        padding: 0px 3px 0px 3px;
+    }
+
+}
+@media(min-width:800px) and (max-width:992px) {
+    .hambuguer i {
+        font-size: 1.6em;   
+    }
+    .redes a{
+        position:fixed;
+     width:40px;
+     height:40px;
+     bottom:15px;
+     right:15px;
+     background-color:#25d366;
+     color:#FFF;
+     border-radius:50px;
+     text-align:center;
+      font-size:20px;
+      z-index:999;
+      text-decoration: none;
+    }
+    .redes i{
+        margin-top:9px;
+    
+    }
+
+    .title h1{
+        font-size:2.8em;
+        letter-spacing: 4px;
+        margin-bottom: 35px;
+    
+    }
+    .fale a{
+        font-size:1em ;
+        padding: 10px 18px;
+        border: 2px solid #fff;
+    
+    }
+    .logo a{
+      
+        font-size: 1.2rem;
+         font-weight: 500;
+       }
+    .logo a .green{
+
+         font-size: 1.2rem;
+      
+    }
+    .logo a .tourism{
+        font-size: 1.2rem;
+    }
+    
+    .logo a .g{
+        font-size: 1.4rem;
+    }
+
+    #container2 .texto{
+        width: 90%;
+       height: auto;
+      
+    }
+
+
+    #container2 h2{
+        font-weight: 400;
+        font-size: 2.3em;
+        padding-top: 15px;
+    }
+    #container2 .texto .h3-dois{
+        font-family: 'Roboto', sans-serif;
+        color: #fff;
+        font-size: 1.9em;
+        font-weight: 300;
+        
+        padding: 20px 5px;
+       }
+       #container2 .texto .h3-one{
+        
+        font-size: 1.1em;
+        padding-bottom: 10px;
+        font-weight: 400;
+        padding: 0 15px;
+          
+    }
+    #container2 .texto p{
+      
+        font-size: 0.9rem;
+        margin-top: 1.4rem;
+        font-weight: 300;
+        padding: 0 10px;
+    }
+    .title-nosso{
+	
+        width: 100%;
+        height: 25vh;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 30px 0;
+        margin-bottom: 30px;
+    }
+    .title-nosso h2{
+     
+        font-weight: 500;
+          font-size: 2.4em;
+    }
+    .title-nosso h3{
+          font-size: 1.6em;
+         
+      
+      }
+      .card{
+
+        width: 310px;
+        height: 440px;
+        margin: 25px;
+        background-color: #fff;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+        transition: 0.3s;
+    }
+    .card-header{
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+   
+    .card-body{
+        height: 190px;
+        padding: 10px;
+    }
+
+    .card-titulo{
+        font-size: 24px;
+        color: #fff;
+        margin: 5px 0px;
+    
+    font-family: 'Roboto', sans-serif; 
+    }
+    .card-text{
+        font-size: 14px;
+        width: 290px;
+        color: #fff;
+        margin: 0 auto;
+        text-align: center;
+    }
+      /* mais procurados */
+.mais-procurados{
+
+	width: 100%;
+	 height: auto;
+ }
+ .conteudo-container{
+	   width: 100%;
+	   height: auto;
+ }
+ .title-1{
+	text-align: center;
+   padding-top: 3em;
+   margin-bottom: 40px;
+   width: 100%;
+}
+.title-1 h3{
+	color: #d3d3d3;
+	letter-spacing: 1px;
+	font-size: 2em;
+	font-weight: 500;
+	font-family: 'Roboto', sans-serif; 
+	text-transform: uppercase;
+}
+.title-1 h1{
+	color:#f49e12  ;
+	font-size: 3.1em;
+	font-weight: 500;
+		font-family: 'Roboto', sans-serif; 
+        padding-top: 10px ;
+        padding-bottom: 3px;
+}
+.title-1 h2{
+	color: #f49e12;
+	font-size: 1.4em;
+}
+/* parte principal */
+.conteudo-Principal{
+	
+	position: relative;
+   color: #fff;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+ }
+ .content-1{
+	position: relative;
+	width: 90%;
+	height: 450px;
+	display: flex;
+    flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.content-1 .image{
+	position: relative;
+	width: 100%;
+    height: 75%;
+	overflow: hidden;
+	}
+	
+	.content-1 .image img{
+		z-index: 111;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		border-radius: 10px;
+	}
+	.content-1 .text-box{
+		z-index: 222;
+		background: rgba(0, 0, 0, 0.2);
+		backdrop-filter: blur(2px);
+		padding: 13px;
+	   height:280px;
+       width: 550px;
+	   border: 1px solid rgba(255, 255, 255, 0.3);
+		border-radius: 20px;
+		transform: translate(-90px, 10px);
+		  
+	  }
+	  .content-1 .text-box h3{
+		color: #fff;
+   font-size: 1.5em;
+   font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 13px;
+   text-align: center;
+ 	font-family: 'Roboto', sans-serif; 
+	}
+	.content-1 .text-box p{
+		color: #fff;
+		font-size: 1em;
+		font-family: 'Roboto', sans-serif; 
+		text-align: center;
+		font-weight: 400;
+
+	}
+    /*contato */
+    
+    .contato-title p {
+        font-size: 28px;
+        color: #fff;
+        font-weight: 300;
+        padding: 0px 3px 0px 3px;
+    }
+
+}
+@media(min-width:992px) and (max-width:1200px) {
+    .hambuguer i {
+        font-size: 1.6em;
+        display: none;   
+    }
+    .navbar{
+        width: 60%;
+        height: 10vh;
+        position:absolute;
+        top: 0;
+        right: 1em;
+        background-color: transparent;
+        display: flex;
+        flex-direction:row ;
+        align-items: center;
+        justify-content: space-around;
+        transform: translateX(0%);
+        z-index: 10000;
+        
+    }
+    .navbar a {
+        border-radius: 20px;
+        padding: 10px 15px;
+        font-size: 1em;
+        cursor: pointer;
+        transition: 0.5s all;
+    }
+    .navbar li a:hover{
+        color: #fff;
+        background-color: #f49e12;
+        
+    }
+    .redes a{
+        position:fixed;
+     width:45px;
+     height:45px;
+     bottom:15px;
+     right:15px;
+     background-color:#25d366;
+     color:#FFF;
+     border-radius:50px;
+     text-align:center;
+      font-size:23px;
+      z-index:999;
+      text-decoration: none;
+    }
+    .redes i{
+        margin-top:11px;
+    
+    }
+
+    .title h1{
+        font-size:3.5em;
+        letter-spacing: 4px;
+        margin-bottom: 35px;
+    
+    }
+    .fale a{
+        font-size:1.3em ;
+        padding: 10px 20px;
+        border: 2px solid #fff;
+    
+    }
+    .logo a{
+       margin-right: 30em;
+       
+        font-size: 1.3rem;
+         font-weight: 500;
+       }
+    .logo a .green{
+
+         font-size: 1.2rem;
+      
+    }
+    .logo a .tourism{
+        font-size: 1.2rem;
+    }
+    
+    .logo a .g{
+        font-size: 1.5rem;
+    }
+
+    #container2 .texto{
+        width: 90%;
+       height:auto;
+      
+    }
+
+
+    #container2 h2{
+        font-weight: 400;
+        font-size: 2.4em;
+        padding-top: 10px;
+    }
+    #container2 .texto .h3-dois{
+        font-family: 'Roboto', sans-serif;
+        color: #fff;
+        font-size: 2.1em;
+        font-weight: 300;
+        
+        padding: 10px 5px;
+       }
+       #container2 .texto .h3-one{
+        
+        font-size: 1.3em;
+        padding-bottom: 10px;
+        font-weight: 300;
+        padding: 0 15px;
+          
+    }
+    #container2 .texto p{
+      
+        font-size: 1rem;
+        margin-top: 1.2rem;
+        font-weight: 300;
+        padding: 0 10px;
+    }
+
+    .title-nosso{
+	
+        width: 100%;
+        height: 25vh;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 30px 0;
+        margin-bottom: 50px;
+    }
+    .title-nosso h2{
+     
+        font-weight: 500;
+          font-size:2.8em;
+          padding-bottom: 15px;
+    }
+    .title-nosso h3{
+          font-size: 1.8em;
+         
+      
+      }
+      .card{
+
+        width: 310px;
+        height: 440px;
+        margin: 25px;
+        background-color: #fff;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+        transition: 0.3s;
+    }
+    .card-header{
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+   
+    .card-body{
+        height: 190px;
+        padding: 10px;
+    }
+
+    .card-titulo{
+        font-size: 24px;
+        color: #fff;
+        margin: 5px 0px;
+    
+    font-family: 'Roboto', sans-serif; 
+    }
+    .card-text{
+        font-size: 14px;
+        width: 280px;
+        color: #fff;
+        margin: 0 auto;
+        text-align: center;
+    }
+     /* mais procurados */
+.mais-procurados{
+
+	width: 100%;
+	 height:auto;
+ }
+ .conteudo-container{
+	   width: 100%;
+	   height: auto;
+ }
+ .title-1{
+	text-align: center;
+   padding-top: 3em;
+   margin-bottom: 60px;
+   width: 100%;
+}
+.title-1 h3{
+	color: #d3d3d3;
+	letter-spacing: 1px;
+	font-size: 2.2em;
+	font-weight: 500;
+	font-family: 'Roboto', sans-serif; 
+	text-transform: uppercase;
+}
+.title-1 h1{
+	color:#f49e12  ;
+	font-size: 3.8em;
+	font-weight: 500;
+		font-family: 'Roboto', sans-serif; 
+        padding-top: 10px ;
+        padding-bottom: 3px;
+}
+.title-1 h2{
+	color: #f49e12;
+	font-size: 1.7em;
+}
+/* parte principal */
+.conteudo-Principal{
+	
+	position: relative;
+   color: #fff;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 60px;
+   padding-bottom: 70px;
+ 
+ }
+ .content-1{
+	position: relative;
+	width: 80%;
+	height: 350px;
+	display: flex;
+    flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.content-1 .image{
+	position: relative;
+	width: 850px;
+    height: 100%;
+	overflow: hidden;
+	}
+	
+	.content-1 .image img{
+		z-index: 111;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		border-radius: 10px;
+	}
+	.content-1 .text-box{
+		z-index: 222;
+		background: rgba(0, 0, 0, 0.2);
+		backdrop-filter: blur(2px);
+		padding: 20px;
+	   height:280px;
+       width: 550px;
+	   border: 1px solid rgba(255, 255, 255, 0.3);
+		border-radius: 20px;
+		transform: translate(-130px, 10px);
+		  
+	  }
+	  .content-1 .text-box h3{
+		color: #fff;
+   font-size: 1.5em;
+   font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 13px;
+   text-align: center;
+ 	font-family: 'Roboto', sans-serif; 
+	}
+	.content-1 .text-box p{
+		color: #fff;
+		font-size: 1em;
+		font-family: 'Roboto', sans-serif; 
+		text-align: center;
+		font-weight: 300;
+        letter-spacing: 1px;
+
+	}
+}
+@media (min-width:1200px) {
+    .hambuguer i {
+        font-size: 1.6em;
+        display: none;   
+    }
+    .navbar{
+        width: 54%;
+        height: 11vh;
+        position:absolute;
+        top: 0;
+        right: 3.5em;
+        background-color: transparent;
+        display: flex;
+        flex-direction:row ;
+        align-items: center;
+        justify-content: space-around;
+        transform: translateX(0%);
+        z-index: 10000;
+        
+    }
+    .navbar a {
+        border-radius: 20px;
+        padding: 10px 15px;
+        font-size: 1.1em;
+        cursor: pointer;
+        transition: 0.5s all;
+    }
+    .navbar li a:hover{
+        color: #fff;
+        background-color: #f49e12;
+        
+    }
+    .redes a{
+        position:fixed;
+     width:45px;
+     height:45px;
+     bottom:15px;
+     right:15px;
+     background-color:#25d366;
+     color:#FFF;
+     border-radius:50px;
+     text-align:center;
+      font-size:23px;
+      z-index:999;
+      text-decoration: none;
+    }
+    .redes i{
+        margin-top:12px;
+    
+    }
+    .title h1{
+        font-size:4.3em;
+        letter-spacing: 6px;
+        margin-bottom: 38px;
+    
+    }
+    .fale a{
+        font-size:1.6em ;
+        padding: 10px 20px;
+        border: 3px solid #fff;
+    
+    }
+    .logo a{
+        margin-right: 33em;
+        
+         font-size: 1.4rem;
+          font-weight: 500;
+        }
+     .logo a .green{
+ 
+          font-size: 1.4rem;
+       
+     }
+     .logo a .tourism{
+         font-size: 1.4rem;
+     }
+     
+     .logo a .g{
+         font-size: 1.7rem;
+     }
+
+     #container2 .texto{
+        width: 78%;
+       height:auto;
+      
+    }
+
+
+    #container2 h2{
+        font-weight: 300;
+        font-size: 3em;
+        padding-top: 15px;
+    }
+    #container2 .texto .h3-dois{
+        font-family: 'Roboto', sans-serif;
+        color: #fff;
+        font-size: 2em;
+        font-weight: 400;
+        
+        padding: 20px 5px;
+       }
+       #container2 .texto .h3-one{
+        
+        font-size: 1.5em;
+        padding-bottom: 10px;
+        font-weight: 300;
+        padding: 0 15px;
+          
+    }
+    #container2 .texto p{
+      
+        font-size: 0.9rem;
+        margin-top: 1.2rem;
+        font-weight: 300;
+        padding: 0 10px;
+    }
+    .title-nosso{
+	
+        width: 100%;
+        height: 25vh;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 30px 0;
+        margin-bottom: 70px;
+    }
+    .title-nosso h2{
+     
+        font-weight: 300;
+          font-size:3em;
+          padding-bottom: 15px;
+    }
+    .title-nosso h3{
+          font-size: 2.3em;
+          font-weight: 200;
+      }
+      .card{
+
+        width: 300px;
+        height: 440px;
+        margin: 25px;
+        background-color: #fff;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+        transition: 0.3s;
+    }
+    .card-header{
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+   
+    .card-body{
+        height: 190px;
+        padding: 10px;
+    }
+
+    .card-titulo{
+        font-size: 25px;
+        color: #fff;
+        margin: 5px 0px;
+    
+    font-family: 'Roboto', sans-serif; 
+    }
+    .card-text{
+        font-size: 14px;
+        width: 280px;
+        color: #fff;
+        margin: 0 auto;
+        text-align: center;
+    }
+    /* mais procurados */
+.mais-procurados{
+
+	width: 100%;
+	 height:auto;
+ }
+ .conteudo-container{
+	   width: 100%;
+	   height: 100%;
+ }
+ .title-1{
+	text-align: center;
+   padding-top: 3em;
+   margin-bottom: 90px;
+   width: 100%;
+}
+.title-1 h3{
+	color: #d3d3d3;
+	letter-spacing: 1px;
+	font-size: 2.4em;
+	font-weight: 500;
+	font-family: 'Roboto', sans-serif; 
+	text-transform: uppercase;
+}
+.title-1 h1{
+	color:#f49e12  ;
+	font-size: 4em;
+	font-weight: 500;
+		font-family: 'Roboto', sans-serif; 
+        padding-top: 10px ;
+        padding-bottom: 3px;
+}
+.title-1 h2{
+	color: #f49e12;
+	font-size: 1.9em;
+}
+/* parte principal */
+.conteudo-Principal{
+	
+
+   gap: 60px;
+   padding-bottom: 70px;
+ 
+ }
+ .content-1{
+	position: relative;
+	width: 80%;
+	height: 380px;
+	display: flex;
+    flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.content-1 .image{
+	position: relative;
+	width: 600px;
+    height: 100%;
+	overflow: hidden;
+	}
+	
+	.content-1 .image img{
+		z-index: 111;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		border-radius: 10px;
+	}
+	.content-1 .text-box{
+		z-index: 222;
+		background: rgba(0, 0, 0, 0.2);
+		backdrop-filter: blur(2px);
+		padding: 20px;
+	   height:260px;
+       width: 450px;
+	   border: 1px solid rgba(255, 255, 255, 0.3);
+		border-radius: 20px;
+		transform: translate(-180px, 10px);
+		  
+	  }
+	  .content-1 .text-box h3{
+		color: #fff;
+   font-size: 1.6em;
+   font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 15px;
+   text-align: center;
+ 	font-family: 'Roboto', sans-serif; 
+	}
+	.content-1 .text-box p{
+		color: #fff;
+		font-size: 1.1em;
+		font-family: 'Roboto', sans-serif; 
+		text-align: center;
+		font-weight: 400;
+        letter-spacing: 1px;
+
+	}
+}
+@media(max-width: 768px) {
+    .section .product{
+        background-color: whitesmoke;
+    }
+    .main-m .header{
+        width: 93%;
+    }
+    .text h1{
+        font-size: 55px;
+    }
+    .section .product{
+        min-width: 30%;
+      margin: 20px 0px 0px 0px;
+    }
+  
+}
